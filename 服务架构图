@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T11:13:03.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.6.2" etag="Tg271tUaOE8-PaUHQe8Z" type="github"><diagram id="BFQMi5UnBSr9zfbBSYEE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-24T11:35:20.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MlRrz94uLJ-OjMntC91U" version="16.6.2" type="github">
+  <diagram id="BFQMi5UnBSr9zfbBSYEE" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="50" width="680" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-8" value="业务服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="600" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-10" value="中台服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="124" y="540" width="606" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-6" value="对外服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="600" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-2" value="API服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-3" value="APP办证服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-4" value="WEB办证服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-5" value="WPS服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-7" value="外部订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-11" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-12" value="消息服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-14" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-15" value="登记簿服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-16" value="文书服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-17" value="模板服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-18" value="签章服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-19" value="审批服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-20" value="复查服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRHKWqWd_CQsjfKf7FQ8-21" value="提存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

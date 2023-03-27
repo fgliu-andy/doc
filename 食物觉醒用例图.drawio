@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T03:13:56.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="0IRF-b5lUmI-tl6rJgCd" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T03:37:29.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="q5jCcA2hIm6Vuv7pJjpz" version="21.1.1" type="github">
   <diagram name="第 1 页" id="x4-oW1hvQLXdEULdkfcq">
     <mxGraphModel dx="880" dy="1621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,6 +25,9 @@
         <mxCell id="FFHXGkqfluXQrECaGBsv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFHXGkqfluXQrECaGBsv-2" target="FFHXGkqfluXQrECaGBsv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FFHXGkqfluXQrECaGBsv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFHXGkqfluXQrECaGBsv-2" target="FFHXGkqfluXQrECaGBsv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-2" value="微食堂管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="170" width="140" height="70" as="geometry" />
         </mxCell>
@@ -32,6 +35,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FFHXGkqfluXQrECaGBsv-4" target="FFHXGkqfluXQrECaGBsv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FFHXGkqfluXQrECaGBsv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FFHXGkqfluXQrECaGBsv-4" target="FFHXGkqfluXQrECaGBsv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-4" value="前置仓管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,20 +52,26 @@
         <mxCell id="FFHXGkqfluXQrECaGBsv-9" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFHXGkqfluXQrECaGBsv-11" value="商品入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFHXGkqfluXQrECaGBsv-11" value="商品入库管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="-100" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFHXGkqfluXQrECaGBsv-13" value="商品入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="130" width="140" height="70" as="geometry" />
+        <mxCell id="FFHXGkqfluXQrECaGBsv-13" value="商品入库管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-15" value="关联食堂或前置仓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-17" value="商品终端定价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="570" y="250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FFHXGkqfluXQrECaGBsv-19" value="商品出库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FFHXGkqfluXQrECaGBsv-19" value="商品出库管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FFHXGkqfluXQrECaGBsv-23" value="商品入库状态确认" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FFHXGkqfluXQrECaGBsv-25" value="商品入库状态确认" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

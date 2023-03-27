@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T11:54:18.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="lFY18pg3r3wCKFH44mwr" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-27T11:58:21.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="tKrJ1jF_jwRZxUeEmelV" version="21.1.1" type="github" pages="2">
   <diagram name="运营管理人员" id="x4-oW1hvQLXdEULdkfcq">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-7" value="商业伙伴管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="825" width="140" height="70" as="geometry" />
+          <mxGeometry x="403" y="790" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-9" value="商品管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="403" y="930" width="140" height="70" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="650" y="474" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-15" value="关联零售终端或前置仓" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="825" width="140" height="70" as="geometry" />
+          <mxGeometry x="610" y="790" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-17" value="商品终端定价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="585" width="140" height="70" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="400" y="290" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-35" value="库存盘点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="694" width="140" height="70" as="geometry" />
+          <mxGeometry x="400" y="660" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FFHXGkqfluXQrECaGBsv-37" value="会员管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="460" width="140" height="70" as="geometry" />

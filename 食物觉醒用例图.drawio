@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T12:01:09.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="XhG11PKi55K0TKQbwYL5" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-27T12:02:27.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="sqzYhycVRIEcX8bKNn4E" version="21.1.1" type="github" pages="2">
   <diagram name="运营管理人员" id="x4-oW1hvQLXdEULdkfcq">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="95" y="800" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_Bmi-E15Vil51Y7hQKF6-1" value="订单发货" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="950" width="140" height="70" as="geometry" />
+          <mxGeometry x="95" y="930" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cf6PpmJOKY-kN2FI4Ina-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cf6PpmJOKY-kN2FI4Ina-1" target="cf6PpmJOKY-kN2FI4Ina-2">
           <mxGeometry relative="1" as="geometry" />
